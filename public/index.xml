@@ -42,6 +42,22 @@
     </item>
     
     <item>
+      <title>Density-Matrix Mean-Field Theory</title>
+      <link>http://localhost:1313/publication/zhang-2024-density/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2024-density/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetism and metallicity in moiré transition metal dichalcogenides</title>
+      <link>http://localhost:1313/publication/tscheppe-2024-magnetism/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tscheppe-2024-magnetism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -115,7 +131,7 @@
 
 
 
-&lt;div id=&#34;chart-784691325&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-983754162&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -133,7 +149,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-784691325&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-983754162&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -896,6 +912,46 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Gauge constrained algorithm of variational discrete action theory at N= 3 for the multiorbital Hubbard model</title>
+      <link>http://localhost:1313/publication/cheng-2023-gauge/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2023-gauge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise ground state of multiorbital Mott systems via the variational discrete action theory</title>
+      <link>http://localhost:1313/publication/cheng-2022-precise/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2022-precise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundations of variational discrete action theory</title>
+      <link>http://localhost:1313/publication/cheng-2021-foundations/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2021-foundations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational discrete action theory</title>
+      <link>http://localhost:1313/publication/cheng-2021-variational/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2021-variational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-shell effective energy theory: A unified treatment of the Hubbard model from d= 1 to d=∞</title>
+      <link>http://localhost:1313/publication/cheng-2020-off/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2020-off/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -909,6 +965,14 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Group theoretical approach to computing phonons and their interactions</title>
+      <link>http://localhost:1313/publication/fu-2019-group/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fu-2019-group/</guid>
+      <description></description>
     </item>
     
     <item>

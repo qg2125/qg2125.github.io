@@ -5,12 +5,76 @@
     <link>http://localhost:1313/publication_types/article-journal/</link>
       <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
       <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Density-Matrix Mean-Field Theory</title>
+      <link>http://localhost:1313/publication/zhang-2024-density/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2024-density/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetism and metallicity in moiré transition metal dichalcogenides</title>
+      <link>http://localhost:1313/publication/tscheppe-2024-magnetism/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tscheppe-2024-magnetism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gauge constrained algorithm of variational discrete action theory at N= 3 for the multiorbital Hubbard model</title>
+      <link>http://localhost:1313/publication/cheng-2023-gauge/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2023-gauge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise ground state of multiorbital Mott systems via the variational discrete action theory</title>
+      <link>http://localhost:1313/publication/cheng-2022-precise/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2022-precise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundations of variational discrete action theory</title>
+      <link>http://localhost:1313/publication/cheng-2021-foundations/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2021-foundations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational discrete action theory</title>
+      <link>http://localhost:1313/publication/cheng-2021-variational/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2021-variational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-shell effective energy theory: A unified treatment of the Hubbard model from d= 1 to d=∞</title>
+      <link>http://localhost:1313/publication/cheng-2020-off/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2020-off/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group theoretical approach to computing phonons and their interactions</title>
+      <link>http://localhost:1313/publication/fu-2019-group/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fu-2019-group/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variational Discrete Action Theory</title>
